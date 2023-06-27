@@ -21,10 +21,6 @@
     "groupByEdgeDirection": true,
     "imageAttribute": false
   },
-  "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": "urlUserImage"
-  },
   "sigma": {
     "drawingProperties": {
       "defaultEdgeType": "curve",
