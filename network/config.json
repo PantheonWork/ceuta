@@ -12,6 +12,11 @@
     "intro": "",
     "title": "ceuta"
   },
+  "legend": {
+    "edgeLabel": "Conversaciones",
+    "colorLabel": "Familias",
+    "nodeLabel": "Palabras"
+  },
   "features": {
     "search": true,
     "groupSelectorAttribute": "color",
