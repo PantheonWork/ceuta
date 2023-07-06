@@ -43,7 +43,7 @@
       "maxEdgeSize": 1,
       "minEdgeSize": 0.4,
       "minNodeSize": 0.1,
-      "maxNodeSize": 44
+      "maxNodeSize": 30
     },
     "mouseProperties": {
       "maxRatio": 20,
